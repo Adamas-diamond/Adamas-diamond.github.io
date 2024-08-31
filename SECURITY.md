@@ -1,13 +1,12 @@
 Security Report
 -----------------------------------------------
 TIME(UTC):****/**/** **:**:**
-Loophole or hidden danger:
 Description:
 -----------------------------------------------
 
 
 
-//etc
+etc.
 //TIME(UTC):2024.9.1 04:18:00  (most countries are diffent of UTC)(what time do you write)
 //Loophole or hidden danger:SYSTEM problem
 //Description:system 32 is not available(can be more detailed)
